@@ -2,6 +2,14 @@
 MuSE:A Deep Learning Model based on Multi-Feature Fusion for Super-Enhancer Prediction
 
 
+## 1. Create one-hot features
+
+Create a directory one hot under the path MuSE/datasets/, next
+
+- *python create_onehot.py* 
+
+
+
 ## 1. File descriptions
 
 ### human_model/mouse_model
